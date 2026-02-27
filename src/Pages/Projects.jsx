@@ -41,7 +41,7 @@ function Projects() {
           </ul>
 
           <div className="product-links">
-            <a href="#" className="btn-primary">Visit Platform</a>
+            <a href="https://doneswaritechnologies.netlify.app/" className="btn-primary">Visit Platform</a>
           </div>
         </div>
 
@@ -63,7 +63,7 @@ function Projects() {
           </ul>
 
           <div className="product-links">
-            <a href="#" className="btn-primary">Request Demo</a>
+            <a href="https://doneswaritechnologies.netlify.app/" className="btn-primary">Request Demo</a>
           </div>
         </div>
 
@@ -85,7 +85,7 @@ function Projects() {
           </ul>
 
           <div className="product-links">
-            <a href="#" className="btn-primary">Learn More</a>
+            <a href="https://doneswaritechnologies.netlify.app/" className="btn-primary">Learn More</a>
           </div>
         </div>
 
